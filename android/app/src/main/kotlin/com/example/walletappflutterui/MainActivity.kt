@@ -1,4 +1,4 @@
-package com.example.walletappflutterui
+package np.ganesh.walletflutter
 
 import io.flutter.embedding.android.FlutterActivity
 
